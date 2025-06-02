@@ -1,0 +1,165 @@
+APPENDIX 2: Curriculum of the Joint Program
+
+DRAFT Curriculum - ITU Dual Degree Program in Bioengineering
+YEAR 1: International University of
+Sarajevo
+FALL SEMESTER SPRING SEMESTER
+Course . Course ‘1
+Code Course Title Prereq. Hours | ECTS Code | Course Title Prereq. Hours | ECTS
+BE101 Intro to Bioengineering (2 +0) 3 MATH102 | Calculus || MATH101 (3 +2) 6
+NS104 General Chemistry (3+ 2) 6 NS122 Physics II NS102 (3 +0) 6
+MATH101 | Calculus! (3 +2) 6 NS207 Organic Chemistry NS104 (3 +2) 6
+Ns102 _| Physics | (with Lab) +2) | 6 | evi2o0 | Ctitical Reading and +1) | 6
+Writing
+Foreign Language Understanding Science
+Elective | (042) 3 Ns112 and Technology (2+0) 3
+Academic English and .
+Foreign Li 7 Z
+ELIT100 _| Effective (2+1) | 6 eee For. Lang (042) | 3
+oe. Elective I! Ele. 1
+Communication
+YEAR 2: Istanbul Technical
+University
+FALL SEMESTER SPRING SEMESTER
+Course Course Title Prereq. Credits | Hours | ECTS Course Course Title Prereq. Credits | Hours | ECTS
+Code Code {
+Engineering MATH101, Numerical Analysis with | BES210 and
+BES240 Mathematics MATH102 4 (4+0) é BES202 Computer Programming | CMP103 2 3+) 6
+. p BIO101&
+CMP103 Intr.to Comp. &Info.Sys. 2 (1+ 2) 3 BEN102 Microbiology (with Lab) S207 3 (242) 6
+Mass and Energy Ns104
+BES211 Balances in NS207 ’ 3 (3 +0) 6 BES204 Fluid Mechanics BES210 3 (3 +0) 6
+Bioengineering
+BI0101 _| General Biology 3 (3+0) | 3 BEN351_| Bioengineering BES211 3 +0) | 6
+Thermodynamics
+ataior —_| History of the Turkish 2 | (2+o) | 3 | TuRt02 | Turkish 2 | +o} 3
+Revolution |
+Probability and MATH101, History of the Turkish
+MTH271 Statistics MATH102 3 (3+0) 6 ATAI02 Revolution I! 2 (2+0) 3
+TUR101 Turkish | 2 (2 +0) 3 BEN323 Materials Science 3 (3 +0) 6
+YEAR 3: Istanbul Technical
+University
+FALL SEMESTER SPRING SEMESTER |
+Course + r Course . ,
+Code Course Title Prereq. Credits | Hours | ECTS Code Course Title Prereq. Credits | Hours | ECTS
+BES207 | Cell Biology (with lab) | 810101 a | @+2)] 6 | Bes328 eid W(with | gesaas a | @+2)| 6
+Biochemistry | (with . . BEN352 and
+NS207 2) BEN324
+BES315 Lab) S20 4 (3 +2) 6 3. Bioengineering Lab | BEN324 3 (0 +6) 6
+Reaction Kinetics and A
+BEN321 oe BEN351 3 (3 +0) 6 BEN326 Genetics BIlO101 a (3 +0) 6
+Design in Biotech.
+
+LY *
+
+Transport Processes in | BES204, A "
+
+BEN352 Bioengineering BEN351 (3 +0) 6 Technical Elective 3 (3 +0) 6
+
+Bioengineering Elective (3 +0) a Bioengineering Elective 3 (3 +0) 3
+BES311 Process Control BES210 2. (3 +0) 6
+
+YEAR 4: International University of
+
+Sarajevo
+
+FALL SEMESTER SPRING SEMESTER
+
+Course Course Title Hours | ECTS Course Course Title Hours | ECTS
+Code Code
+‘ F ; Senior . A ‘ Senior
+
+BIO415 Genetic Engineering Standing (3 +0) 6 BIO407 Protein Engineering Standing (3 +0) | 6
+Program Elective | Table 2 6 | eNs3o9 | Ethics in Engineering (341) |6
+
+and Science
+
+sio370 | Work Placement / (o+14) | 6 Program Elective II Table 2 6
+Internship
+
+Techniques in Molecular BIO3OL
+
+E408 Project Management (2+2) 6 BIO312 4 (Molecular (2+2) |6
+Biology
+Biology)
+7 Senior
+ENS490 Graduation Project Standing (2+2) 6
+
+POSSIBLE ELECTIVES : Istanbul
+Technical University Table 2: Program Electives
+
+BEN312 Enzymology (3 +0) 6 Code Title Prerequisites ECTS
+Exper.Desg.&Modell.in Plant Structure and . .
+
+BEN322 : (3 +0) 6 . Junior standin 6
+Bioeng. BI0308_| Physiology a
+Environmental . m
+
+BEN332__| Biotechnology +0) | & | Blo401_| Biotechnology Junior standing Si
+
+Molecular .
+BEN341 Biomaterials (3 +0) 6 u a Junior standing 6
+BlO402_| Evolution
+BEN337 Biofuel&Bioenergy (3 +0) 6 BlO403_| Plant Pathogenesis | Senior standing 6
+Agricultural
+BEN335 —_| Biosensors (3+0) | 6 : Senior standin 6
+BlO404_| Biotechnology i
+Biological Data
+Analysis with 6
+BlO405_| Python CS103 or ENS213
+Modeling and
+Simulation of : 7
+7 Senior standing 6
+Biomolecular
+BlO408 _| Processes
+BIO409_| Immunology NS205 6
+Ecology and
+environmental Junior standing 6
+BlO410 | engineering
+Mammalian 6
+BIO411 | physiology NS205
+
+Special Topies in Senior standin, 6
+BlO412 | Bioengineering 6
+Pharmaceutical Senior standin 6
+Bl0414 | Biotechnology a
+Population 7 5
+810416 | Genetics Junior standing 6
+Molecular . .
+BlO417 | Diagnostics Senior standing 6
+BlO418 | Virology Senior standing
+BlO420_| Biophysics Senior standing
+Mechanism of 6
+BlO422 | Signal Transd BlO301
+Introduction to 5 A
+BlO424 | Forensic Science Junior standing &
+Bioengineering . .
+810425_| Principles Junior standing 6
+BlO426 | Bioethics Junior standing 6
+Cell and Tissue . .
+B10427_| Culture Engineering | “Ur standing 6
+BIO428 | Structural Biology _| Junior standing
+[_ ENS490 | Graduation Project | Last Semester
+Introduction to
+PSY310 | Psychopharmacolo | Junior standing
+sy 6
+
+COURSE DESCRIPTIONS
+
+BE101 Introduction to Bioengineering
+
+The course provides a contemporary perspective on significant advancements in biomedical
+engineering, exploring the integration of biology, mathematics, and engineering to address
+challenges in engineering to drive innovation. The course addresses essential concepts,
+techniques, and applications, equipping students to employ engineering principles in biological
+systems. This foundation sets the stage for future progress in healthcare, biotechnology, and
+other related fields. Additionally, the course presents practical examples of commonly
+employed techniques. This approach will allow students to develop a comprehensive
+
+understanding of the various key areas in which bioengineers are involved.
+
+NS104 General Chemistry
+Chemistry and Measurements, Matter and Energy, Atoms and Elements, Ionic compounds;
+Molecular compounds; Chemical quantities and reactions; Balancing of chemical
+
+reactions;Gases; Acids and Bases/Equilibrium; Introduction to Hydrocarbons.
