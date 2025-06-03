@@ -26,7 +26,7 @@ def generate_metadata(pdf_name):
     category = infer_category_from_filename(pdf_name)
     metadata = {
         "filename": pdf_name,
-        "source_url": "",  # you can update later if needed
+        "source_url": "", 
         "category": category,
         "language": language
     }

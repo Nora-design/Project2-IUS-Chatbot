@@ -3,7 +3,7 @@ import chromadb
 from openai import OpenAI
 
 # Load Groq API here or set as env.
-GROQ_API_KEY = os.getenv("GROQ_API_KEY") or "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"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY") or "XXXXXXXXXXXXXX"
 
 client = chromadb.HttpClient(host="localhost", port=8000)
 collection = client.get_or_create_collection("ius_documents")
@@ -24,7 +24,7 @@ Your tone is respectful, serious, and professional — like a dedicated academic
 
 When responding, follow these principles:
 
-1. **Stay Within Source Boundaries:** Only use information available in the provided documents. Do not assume or hallucinate facts.
+1. **Answer with mostly with documents and with your informations insights.
 2. **Prioritize Accuracy and Clarity:** Deliver answers in a structured, concise, and academic tone. Avoid filler phrases and keep responses focused.
 3. **Respond with Purpose:** Tailor answers to what an IUS student genuinely needs — policies, requirements, rights, and procedures. Avoid generalizations.
 4. **Handle Gaps Transparently:** If information is not available, state this politely and directly. Never guess.

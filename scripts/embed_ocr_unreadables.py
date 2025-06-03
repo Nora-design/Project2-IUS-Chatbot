@@ -50,11 +50,11 @@ def embed_ocr_pdfs(data_dir="./data"):
             print(f"❌ OCR failed: {file}")
             continue
 
-        # Optional: Save extracted text to txt for review
+        # Saving extracted text to txt for review
         with open(dest.replace(".pdf", ".txt"), "w", encoding="utf-8") as f:
             f.write(text)
 
-        # Add to Chroma
+        # Adding to Chroma
         doc_id = file.replace(".pdf", "").lower().replace(" ", "_")
         collection.add(
             documents=[text],

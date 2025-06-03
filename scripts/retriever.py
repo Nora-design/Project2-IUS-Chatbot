@@ -12,7 +12,7 @@ def retrieve_docs(query, n_results=3):
     docs = results['documents'][0]
     metadatas = results['metadatas'][0]
 
-    # ✅ Filter out None or empty documents
+    # Filtering out None or empty documents
     filtered = [
         (doc, meta) for doc, meta in zip(docs, metadatas)
         if isinstance(doc, str) and doc.strip()
